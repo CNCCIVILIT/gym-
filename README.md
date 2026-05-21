@@ -15,11 +15,6 @@ This repository contains the source code for a gym website, implemented as a sin
 * Unique and Dynamic Design.
 * Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
 
-### Installation
-To run the gym website locally as a single page application, follow these steps:
-- Clone this repository: git clone `https://github.com/mian-ali/GymWebsite.git`
-- Navigate to the project directory: cd GymWebsite
-- Open the index.html file in your web browser.
 
 ### Usage
 Once the website is running, the  sections will be prominently displayed at the top of the page. Users can engage with these section by:
